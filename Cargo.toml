@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "closures_and_iterators"
+]
