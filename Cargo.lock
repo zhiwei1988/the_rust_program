@@ -5,3 +5,7 @@ version = 4
 [[package]]
 name = "closures_and_iterators"
 version = "0.1.0"
+
+[[package]]
+name = "enums_and_match"
+version = "0.1.0"

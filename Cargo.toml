@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "closures_and_iterators"
+    "closures_and_iterators", 
+    "enums_and_match"
 ]
