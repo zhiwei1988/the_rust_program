@@ -1,5 +1,5 @@
 [workspace]
 members = [
     "closures_and_iterators", 
-    "enums_and_match"
-]
+    "enums_and_match" , 
+    "hello_macro"]
